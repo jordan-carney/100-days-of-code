@@ -18,3 +18,12 @@
 
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Took a break from Koa/Voting App to learn about JS driven, 60fps animations.
+
+**Thoughts:** Browser based animation can be amazing when combining CSS and JS. Otherwise, exhausting day. Need to be more prudent about setting aside enough time for this challenge.
+
+**Link(s) to Work:**  
+None.  
