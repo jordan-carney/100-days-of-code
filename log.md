@@ -27,3 +27,12 @@
 
 **Link(s) to Work:**  
 None.  
+
+### Day 4: January 4, 2017
+
+**Today's Progress**: Worked through the entire Kick-Off-Koa series to get a focused overview of the library.
+
+**Thoughts:** I think I have enough base Koa knowledge to start roughing out the architecture for the Free Code Camp Voting App. Onward and upward!
+
+**Link(s) to Work:**  
+1. [GitHub: Kick-Off-Koa](https://github.com/jordan-carney/kickoffkoa)  
