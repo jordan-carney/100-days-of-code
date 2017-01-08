@@ -28,7 +28,7 @@
 **Link(s) to Work:**  
 None.  
 
-### Day 4: January 4, 2017
+### Day 4: January 6, 2017
 
 **Today's Progress**: Worked through the entire Kick-Off-Koa series to get a focused overview of the library.
 
@@ -36,3 +36,12 @@ None.
 
 **Link(s) to Work:**  
 1. [GitHub: Kick-Off-Koa](https://github.com/jordan-carney/kickoffkoa)  
+
+### Day 5: January 7, 2017
+
+**Today's Progress**: Added the front-end architecture to the voting app. Materialize, jQuery, Pug.
+
+**Thoughts:** Enjoying the light weight of Koa. Although I'm seeing the potential for the ultra-modular nature of Koa being annoying vs the "well-rounded" out of the box functionality of Express. Definitely looking forward to how the dev experience with Koa continues...
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
