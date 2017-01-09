@@ -45,3 +45,12 @@ None.
 
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: Added an external mongodb connection. Setup Registration form and verified connection with database. Learned A LOT about user authentication.
+
+**Thoughts:** Lots of reading/learning today on user authentication, WHEW! Part of my strategy for the FCC Voting app is to do everything at a low level and avoid relying on node modules for everything (Passport.js). While I have added a few modules, they've been for things that I don't consider to be on the main learning path for this project.
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app) 
