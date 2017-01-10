@@ -54,3 +54,12 @@ None.
 
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app) 
+
+### Day 7: January 8, 2017
+
+**Today's Progress**: Continued learning on user authentication on a low level. Roughed out the user login route for the voting app.
+
+**Thoughts:** More user auth learning. Getting more comfortable in the Koa patterns using yields.
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app) 
