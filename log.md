@@ -63,3 +63,12 @@ None.
 
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app) 
+
+### Day 8: January 8, 2017
+
+**Today's Progress**: Implemented user session/cookies on login and removal on logout.
+
+**Thoughts:** Today I was reminded to be flexible and willing to adjust approach in order to get things done.
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
