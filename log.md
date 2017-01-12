@@ -55,7 +55,7 @@ None.
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app) 
 
-### Day 7: January 8, 2017
+### Day 7: January 9, 2017
 
 **Today's Progress**: Continued learning on user authentication on a low level. Roughed out the user login route for the voting app.
 
@@ -64,11 +64,20 @@ None.
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app) 
 
-### Day 8: January 8, 2017
+### Day 8: January 10, 2017
 
 **Today's Progress**: Implemented user session/cookies on login and removal on logout.
 
 **Thoughts:** Today I was reminded to be flexible and willing to adjust approach in order to get things done.
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Implemented Hash on user passwords for more secure storage.
+
+**Thoughts:** Today revealed some blind spots in my async/await | generator control flow knowledge.
 
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
