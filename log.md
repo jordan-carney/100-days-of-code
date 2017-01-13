@@ -82,7 +82,7 @@ None.
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
 
-### Day 10: January 11, 2017
+### Day 10: January 12, 2017
 
 **Today's Progress**: Implemented csrf protection via form tokens.
 
