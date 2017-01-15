@@ -91,9 +91,7 @@ None.
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
 
-### Day 11: January 13, 2017
-### Day 12: January 14, 2017
-### Day 13: January 15, 2017
+### Day 11, 12, 13: January 13 - 15, 2017
 
 **Progress**: Took a detour and wrote an introductory presentation about D3.js I'll be giving on February 2nd.
 
