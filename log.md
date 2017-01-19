@@ -91,7 +91,7 @@ None.
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
 
-### Day 11, 12, 13: January 13 - 15, 2017
+### Day 11, 12, 13, 14: January 13 - 16, 2017
 
 **Progress**: Took a detour and wrote an introductory presentation about D3.js I'll be giving on February 2nd.
 
@@ -99,3 +99,18 @@ None.
 
 **Link(s) to Work:**  
 Will update with slide-deck after the talk.
+
+### Day 15: January 17, 2017
+
+**Progress**: None.
+
+**Thoughts**: Family and general adulting simply took priority today. Life is a balance and sometimes that means making hard compromises. Back at it again tomorrow!
+
+### Day 16: January 18, 2017
+
+**Progress**: Added a general account overview route and cleaned up the styles for the Voting App.
+
+**Thoughts**: User authentication is still oddly fun and intriguing for me. Definitely didn't expect that...
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
