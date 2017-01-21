@@ -114,3 +114,12 @@ Will update with slide-deck after the talk.
 
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
+
+### Day 17, 18: January 19, 20, 2017
+
+**Progress**: Cleaned up the logged-in home page. Roughed out the basic data model for Polls. Added Route to create Polls.
+
+**Thoughts**: Life continues to be crazy, but this challenge is helping to keep me honest. Ship code daily, or at least write daily and ship when I can!
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
