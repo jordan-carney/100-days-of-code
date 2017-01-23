@@ -123,3 +123,21 @@ Will update with slide-deck after the talk.
 
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
+
+### Day 19: January 21, 2017
+
+**Progress**: Added routes and views for users to view specific polls via http link.
+
+**Thoughts**: Just keep going...
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
+
+### Day 20: January 22, 2017
+
+**Progress**: Added ability for users to delete polls they have created.
+
+**Thoughts**: Mongoose is fun... sometimes!
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)
