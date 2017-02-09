@@ -152,5 +152,5 @@ Will update with slide-deck after the talk.
 **Thoughts**: Two things. 1 - I'm BACK! No longer sick and can think clearly again. WooHoo! 2 - Public eyes on my progress (heroku) may help with motivation.
 
 **Link(s) to Work:**  
-1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app) 
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
 2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
