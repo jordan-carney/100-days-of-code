@@ -200,5 +200,5 @@ Will update with slide-deck after the talk.
 **Thoughts**: Canvas is fun!
 
 **Link(s) to Work:**  
-1. [HTML5 Canvas](https://jordan-carney.github.io/js30/html5-canvas.html) Click and drag your mouse arround.
+1. [HTML5 Canvas](https://jordan-carney.github.io/js30/html5-canvas.html) Click and drag your mouse arround.  
 2. [Slide in on Scroll](https://jordan-carney.github.io/js30/slide-in-on-scroll.html) Scroll up/down page.
