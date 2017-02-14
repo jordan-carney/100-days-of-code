@@ -154,3 +154,51 @@ Will update with slide-deck after the talk.
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
 2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 39: February 9th, 2017
+
+**Progress**: Completed array-cardio-2 in javascript30.com with Wes Bos.
+
+**Thoughts**: Had both the ability and the fluidity in completeing this without watching the video/tutorial which was very reassuring.
+
+**Link(s) to Work:**
+1. [GitHub: Array Cardio 2](https://github.com/jordan-carney/js30/blob/master/array-cardio-2.html)  
+
+### Day 40: February 10th, 2017
+
+**Progress**: Added ability to edit polls in the voting app.
+
+**Thoughts**: Writing this voting app has been fun so far, but I'm already seeing a massive refactoring coming for readability, applied learnings, and maintainability concerns.
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 41: February 11th, 2017
+
+**Progress**: Realized that many of my commits were not counting in the Github streak graph due to a computer I set up that had a bad (local) email address being used. Took a trip down Git-lane and learned about rewriting commit history in a repo.
+
+**Thoughts**: Git is powerful, and it's easy to make a big mess if not vigalent.
+
+**Link(s) to Work:**  
+1. [GitHub Commit Histories!](https://github.com/jordan-carney)
+
+### Day 42: February 12th, 2017
+
+**Progress**: Added a warning to the edit page in the voting app to inform that editing a poll resets voting.
+
+**Thoughts**: I'm curious to see how developing my next app project with Express goes in regards to productivity. Koa is great though.
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 43: February 13th, 2017
+
+**Progress**: Completed a couple more Javascript30.com exercises: html5-canvas, and slid-in-on-scroll.
+
+**Thoughts**: Canvas is fun!
+
+**Link(s) to Work:**  
+1. [HTML5 Canvas](https://jordan-carney.github.io/js30/html5-canvas.html) Click and drag your mouse arround.
+2. [Slide in on Scroll](https://jordan-carney.github.io/js30/slide-in-on-scroll.html) Scroll up/down page.
