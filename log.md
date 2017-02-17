@@ -202,3 +202,35 @@ Will update with slide-deck after the talk.
 **Link(s) to Work:**  
 1. [HTML5 Canvas](https://jordan-carney.github.io/js30/html5-canvas.html) Click and drag your mouse arround.  
 2. [Slide in on Scroll](https://jordan-carney.github.io/js30/slide-in-on-scroll.html) Scroll up/down page.
+
+### Day 44: February 14th, 2017
+
+**Progress**: Restricted authenticated and unauthenticated users to only one vote per poll.
+
+**Thoughts**: Spoiler alert: IP Address tracking! Keeping this challenge going, even on Valentines day.
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 45: February 15th, 2017
+
+**Progress**: Add bar-chart views for poll results after voting on a poll.
+
+**Thoughts**: Hit some good thought exercies on architecture approaches: separate front-end from back-end, SPA apps, and isomorphic rendering.
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 46: February 16th, 2017
+
+**Progress**: Completed Javascript30.com exercise reference vs copy. Debugged IP address detection issue on Heroku.
+
+**Thoughts**: Getting into the final stretch with the Voting App! A few more user stories and the free code camp project will be DONE.
+
+**Link(s) to Work:**  
+1. [GitHub: JS30: ref v copy](https://github.com/jordan-carney/js30/blob/master/reference-vs-copy.html)
+2. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+3. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
