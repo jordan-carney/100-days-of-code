@@ -230,7 +230,7 @@ Will update with slide-deck after the talk.
 **Thoughts**: Getting into the final stretch with the Voting App! A few more user stories and the free code camp project will be DONE.
 
 **Link(s) to Work:**  
-1. [GitHub: JS30: ref v copy](https://github.com/jordan-carney/js30/blob/master/reference-vs-copy.html)
+1. [GitHub: JS30: ref v copy](https://github.com/jordan-carney/js30/blob/master/reference-vs-copy.html)  
 2. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
 3. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
 
