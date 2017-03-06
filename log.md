@@ -1,4 +1,4 @@
-# 117 Days Of Code - Log
+# 121 Days Of Code - Log
 *Added 21 days due to sick-time, and various other days missed.
 
 ### Day 1: January 3, 2017
