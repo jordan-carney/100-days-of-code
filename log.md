@@ -1,5 +1,5 @@
 # 117 Days Of Code - Log
-*Added 17 days due to sick-time.
+*Added 21 days due to sick-time, and various other days missed.
 
 ### Day 1: January 3, 2017
 
@@ -234,3 +234,141 @@ Will update with slide-deck after the talk.
 2. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
 3. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
 
+### Day 47: February 17th, 2017
+
+**Progress**: Added ability for registered users to delete their account in the FCC - Voting App.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 48: February 18th, 2017
+
+**Progress**: Modularlized routes for the app to clean up concerns. Added koa-router for cleaner http verb routes.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 49: February 19th, 2017
+
+**Progress**: Styled up bottons to add/remove options when creating or editing polls.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 50: February 20th, 2017
+
+**Progress**: Fixed bugs in options add/remove functionality. Further refactored routes.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 51: February 21st, 2017
+
+**Progress**: Style updates on voting app. Cleaned up single poll page and restricted formatting on bar chart Y-axis.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 52: February 22nd, 2017
+
+**Progress**: Completed Javascript30.com exercise local storage.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: JS30: local storage](https://jordan-carney.github.io/js30/localstorage.html)
+
+### Day 53: February 23rd, 2017
+
+**Progress**: Completed Javascript30.com exercise sort without articles.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: JS30: sort sans articles](https://jordan-carney.github.io/js30/sort-without-articles.html)
+
+### Day 54: February 24th, 2017
+
+**Progress**: Completed Javascript30.com exercise css test shadow moves with mouse.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: JS30: move with mouse](https://jordan-carney.github.io/js30/css-text-shadow-mouse-move.html)
+
+### Day 55: February 25th, 2017
+
+**Progress**: Voting app: Fixed bug with username in front-end form field. Added all polls to homepage. Enabled vote tracking on single poll pages.
+
+**Thoughts**: -
+
+**Link(s) to Work:**   
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 56: February 26th, 2017
+
+**Progress**: Patched has-voted status on user-poll list pages.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 57: February 27th, 2017
+
+**Progress**: Refactor IP Address logging for poll has-voted status. Adjusted app file structure.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 58: February 28th, 2017
+
+**Progress**: Various bug fixes in voting app.
+
+**Thoughts**: -
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 59: March 1st, 2017
+### Day 60: March 2nd, 2017
+### Day 61: March 3rd, 2017
+### Day 62: March 4th, 2017
+
+**Progress**: FAILED!
+
+**Thoughts**: Grumble. Add it to the overtime day count!
+
+**Link(s) to Work:**  
+None.
+
+### Day 63: March 5th, 2017
+
+**Progress**: Turned on ESLint and cleaned up code.
+
+**Thoughts**: Was interesting to keep the linter off for a while to see what general code habits I tend toward.
+
+**Link(s) to Work:**  
+1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
+2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
