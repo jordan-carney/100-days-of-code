@@ -379,5 +379,5 @@ None.
 
 **Thoughts**: Holy crap create-react-app made setting this up easy, and with the ability to eject once the setup is _just right_ cannot be beat!
 
-**Link(s) to Work:**
+**Link(s) to Work:**  
 1. [GitHub: Nightlife App](https://github.com/jordan-carney/fcc-nightlife)
