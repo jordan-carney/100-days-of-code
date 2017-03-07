@@ -372,3 +372,12 @@ None.
 **Link(s) to Work:**  
 1. [GitHub: Voting App](https://github.com/jordan-carney/fcc-voting-app)  
 2. [DEMO: Voting App](https://jc-fcc-vote.herokuapp.com/)
+
+### Day 64: March 6th, 2017
+
+**Progress**: Setup the base app structure to begin the Free Code Camp Nightlife Coordination app.
+
+**Thoughts**: Holy crap create-react-app made setting this up easy, and with the ability to eject once the setup is _just right_ cannot be beat!
+
+**Link(s) to Work:**
+1. [GitHub: Nightlife App](https://github.com/jordan-carney/fcc-nightlife)
